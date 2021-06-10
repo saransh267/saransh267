@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saransh267
 - 👀 I’m interested in REST Architecture, AWS, Flask-Python, Javascript, SQL, SAPUI5
 - 🌱 I’m currently working in LBrands as a SAP UI5 Intern
-- 💞️ I’m looking to collaborate on Cloud Architecture
+- 💞️ I’m looking to collaborate on Cloud Architecture or Javascript
 - 📫 How to reach me : saranshgupta2407@gmail.com
 
 <!---
