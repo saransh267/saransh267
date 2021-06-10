@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saransh267
+- 👋 Hi, I’m Saransh Gupta
 - 👀 I’m interested in REST Architecture, AWS, Flask-Python, Javascript, SQL, SAPUI5
 - 🌱 I’m currently working in LBrands as a SAP UI5 Intern
 - 💞️ I’m looking to collaborate on REST Architecture or Javascript
