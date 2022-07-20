@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saransh Gupta
-- 👀 I’m interested in REST Architecture, AWS, Flask-Python, Javascript, SQL, SAP UI5
-- 🌱 I’m currently working in LBrands as a SAP UI5 Intern
-- 💞️ I’m looking to collaborate on REST Architecture or Javascript
+- 👀 I’m interested in Web development, Javascript, React, REST Architecture, AWS, Flask-Python, SQL
+- 🌱 I’m currently working as an Associate Frontend Web Developer in Victoria's Secret
+- 💞️ I’m looking to collaborate on Web development or REST Architecture
 - 📫 How to reach me : saranshgupta2407@gmail.com
 
 <!---
