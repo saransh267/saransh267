@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saransh Gupta
-- 👀 I’m interested in Web development, Javascript, React, REST Architecture, AWS, Flask-Python, SQL
-- 🌱 I’m currently working as an Associate Frontend Web Developer in Victoria's Secret
-- 💞️ I’m looking to collaborate on Web development or REST Architecture
+- 👀 I’m interested in creating immersive online user experience using web technologies like React.js, Next.js, Javascript, Typescript and HTML5/CSS3
+- 🌱 I’m currently working as an Senior Frontend Web Developer at Victoria's Secret & Co.
+- 💞️ I’m looking to collaborate on user interface development and enhancing the web customer experience
 - 📫 How to reach me : saranshgupta2407@gmail.com
 
 <!---
